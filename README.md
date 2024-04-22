@@ -3,6 +3,10 @@
 The city of Chicago released a dataset showing all school level performance data used to create School Report Cards for the 2011-2012 school year.
 With this,  we're able to get some valuable insights from the data thus getting to understand our data better.
 
+We'll be looking at three types of schools: Elementary schools, Highschool and Middle schools and the various locations in which they are located. 
+
+We'll also be looking at how different locations perform as far as studies is concerned.
+
 ### The metrics used are displayed and described below:
 
 
